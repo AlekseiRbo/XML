@@ -5,12 +5,12 @@
       <Title></Title>
       <Steps></Steps>
       <Expected_Result></Expected_Result>
-      <Actual Result></Actual Result>
+      <Actual_Result></Actual_Result>
       <Link></Link>
       <License></License>
-      <Role (unregistered, unauthorized, authorized, All)></Role (unregistered, unauthorized, authorized, All)>
-      <Telegram @nick. Bug started></Telegram @nick. Bug started>
-      <Telegram @nick. Bug reproduced></Telegram @nick. Bug reproduced>
-      <Telegram @nick. Bug did not reproduce></Telegram @nick. Bug did not reproduce>
-      <Bug did not reproduce (environment)></Bug did not reproduce (environment)>
+      <Role_(unregistered, unauthorized, authorized, All)></Role_(unregistered, unauthorized, authorized, All)>
+      <Telegram_@nick. Bug_started></Telegram_@nick. Bug_started>
+      <Telegram_@nick. Bug_reproduced></Telegram_@nick. Bug_reproduced>
+      <Telegram_@nick. Bug_did_not_reproduce></Telegram_@nick. Bug_did_not_reproduce>
+      <Bug_did_not_reproduce_(environment)></Bug_did_not_reproduce_(environment)>
   </bug_report>
