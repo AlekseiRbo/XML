@@ -33,10 +33,10 @@
 `git commit -am "Add diff new.xml`  
 `git push`  
 
-29. Create preferences.xml file  
+29. Create "preferences.xml" file  
 `touch preferences.xml`  
 
-30. In the preferences.xml file, add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, side you would like to visit) in XML format.  
+30. In the "preferences.xml" file, add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, side you would like to visit) in XML format.  
 `vim preferences.xml`  
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -49,7 +49,7 @@
 	</user>
 ```  
 
-31. Create a sklls.xml file to add information about the skills that will be studied in the course in XML format.  
+31. Create a "sklls.xml" file to add information about the skills that will be studied in the course in XML format.  
 `vim sklls.xml`  
 ```
 <?xml version="1.0" encoding="UTF-8"?>
