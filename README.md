@@ -77,6 +77,7 @@ Go to file "bug_report.xml" click `Edit this file`, insert xml file:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
   <bug_report>
+      <Id></Id>
       <Severity></Severity>
       <Environment></Environment>
       <Title></Title>
