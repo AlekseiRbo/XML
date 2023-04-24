@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<user>
-		<user_movie>John Wick</user_movie>
-		<user_soap_opera>The Walking Dead</user_soap_opera>
-		<user_food>French_meat, Pork_skewers</user_food>
-		<user_season>I like all seasons</user_season>
-		<user_country>Germany</user_country>
+		<user_favorite_movie>John Wick</user_movie>
+		<user_favorite_soap_opera>The Walking Dead</user_soap_opera>
+		<user_favorite_food>French_meat, Pork_skewers</user_food>
+		<user_favorite_season>I like all seasons</user_season>
+		<user_country_to_travel>Germany</user_country>
 	</user>
-
