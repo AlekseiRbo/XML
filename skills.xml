@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<user>
-		<user_soft_skills>Git, GitHub, Postman_API, SQL, SOAP_API, and etc</user_soft_skills>
-		<user_hard_skills>attentiveness, multitasking, perseverance, skill to work in team</user_hard_skills> 
+		<user_soft_skills>user_soft_skills</user_soft_skills>
+		<user_soft_skills_1>attentiveness</user_soft_skills_1>
+		<user_soft_skills_2>multitasking</user_soft_skills_2>
+		<user_soft_skills_3>perseverance</user_soft_skills_3>
+		<user_soft_skills_4>skill to work in team</user_soft_skills_4>
+		<user_soft_skills_5>and etc</user_soft_skills_5>
+		<></>
+		<user_hard_skills>user_hard_skills</user_hard_skills>
+		<user_hard_skills_1>Git</user_hard_skills_1>
+		<user_hard_skills_2>GitHub</user_hard_skills_2>
+		<user_hard_skills_3>Postman_API</user_hard_skills_3>
+		<user_hard_skills_4>SQL</user_hard_skills_4>
+		<user_hard_skills_5>SOAP_API</user_hard_skills_5>
+		<user_hard_skills_6>and etc</user_hard_skills_6>
 	</user>
