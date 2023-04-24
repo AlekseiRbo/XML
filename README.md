@@ -41,11 +41,11 @@
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 	<user>
-		<user_movie>John Wick</user_movie>
-		<user_soap_opera>The Walking Dead</user_soap_opera>
-		<user_food>French_meat, Pork_skewers</user_food>
-		<user_season>I like all seasons</user_season>
-		<user_country>Germany</user_country>
+		<user_favorite_movie>John Wick</user_movie>
+		<user_favorite_soap_opera>The Walking Dead</user_soap_opera>
+		<user_favorite_food>French_meat, Pork_skewers</user_food>
+		<user_favorite_season>I like all seasons</user_season>
+		<user_country_to_travel>Germany</user_country>
 	</user>
 ```  
 
@@ -54,8 +54,20 @@
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 	<user>
-		<user_soft_skills>Git, GitHub, Postman_API, SQL, SOAP_API, and etc</user_soft_skills>
-		<user_hard_skills>attentiveness, multitasking, perseverance, skill to work in team</user_hard_skills> 
+		<user_soft_skills>user_soft_skills</user_soft_skills>
+		<user_soft_skills_1>attentiveness</user_soft_skills_1>
+		<user_soft_skills_2>multitasking</user_soft_skills_2>
+		<user_soft_skills_3>perseverance</user_soft_skills_3>
+		<user_soft_skills_4>skill to work in team</user_soft_skills_4>
+		<user_soft_skills_5>and etc</user_soft_skills_5>
+		<></>
+		<user_hard_skills>user_hard_skills</user_hard_skills>
+		<user_hard_skills_1>Git</user_hard_skills_1>
+		<user_hard_skills_2>GitHub</user_hard_skills_2>
+		<user_hard_skills_3>Postman_API</user_hard_skills_3>
+		<user_hard_skills_4>SQL</user_hard_skills_4>
+		<user_hard_skills_5>SOAP_API</user_hard_skills_5>
+		<user_hard_skills_6>and etc</user_hard_skills_6>
 	</user>
 ```  
 
@@ -77,20 +89,20 @@ Go to file "bug_report.xml" click `Edit this file`, insert xml file:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
   <bug_report>
-      <Id></Id>
-      <Severity></Severity>
-      <Environment></Environment>
-      <Title></Title>
-      <Steps></Steps>
-      <Expected_Result></Expected_Result>
-      <Actual_Result></Actual_Result>
-      <Link></Link>
-      <License></License>
-      <Role_(unregistered, unauthorized, authorized, All)></Role_(unregistered, unauthorized, authorized, All)>
-      <Telegram_@nick. Bug_started></Telegram_@nick. Bug_started>
-      <Telegram_@nick. Bug_reproduced></Telegram_@nick. Bug_reproduced>
-      <Telegram_@nick. Bug_did_not_reproduce></Telegram_@nick. Bug_did_not_reproduce>
-      <Bug_did_not_reproduce_(environment)></Bug_did_not_reproduce_(environment)>
+        <ID>001</ID>
+        <Severity>Medium</Severity>
+        <Environment>Devices</Environment>
+        <Title>What?Where?When?</Title>
+        <Steps>Steps to reproduce</Steps>
+        <ER>Expected Result</ER>
+        <AR>Actual Result</AR>
+        <Link>link</Link>
+        <License>license</License>
+        <Role>Unregistered, Unauthorized, Authorized, All</Role>
+        <Telegram_@nick._Bug_started>@_</Telegram_@nick._Bug_started>
+        <Telegram_@nick._Bug_reproduced>@_</Telegram_@nick._Bug_reproduced>
+        <Telegram_@nick._Bug_did_not_reproduce>@_</Telegram_@nick._Bug_did_not_reproduce>
+        <Bug_did_not_reproduce_(environment)>Devices</Bug_did_not_reproduce_(environment)>
   </bug_report>
 ```
 
