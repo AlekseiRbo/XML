@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <bug_report>
-      <Severity></Severity>
-      <Environment></Environment>
-      <Title></Title>
-      <Steps></Steps>
-      <Expected_Result></Expected_Result>
-      <Actual_Result></Actual_Result>
-      <Link></Link>
-      <License></License>
-      <Role_(unregistered, unauthorized, authorized, All)></Role_(unregistered, unauthorized, authorized, All)>
-      <Telegram_@nick. Bug_started></Telegram_@nick. Bug_started>
-      <Telegram_@nick. Bug_reproduced></Telegram_@nick. Bug_reproduced>
-      <Telegram_@nick. Bug_did_not_reproduce></Telegram_@nick. Bug_did_not_reproduce>
-      <Bug_did_not_reproduce_(environment)></Bug_did_not_reproduce_(environment)>
+        <ID>001</ID>
+        <Severity>Medium</Severity>
+        <Environment>Devices</Environment>
+        <Title>What?Where?When?</Title>
+        <Steps>Steps to reproduce</Steps>
+        <ER>Expected Result</ER>
+        <AR>Actual Result</AR>
+        <Link>link</Link>
+        <License>license</License>
+        <Role>Unregistered, Unauthorized, Authorized, All</Role>
+        <Telegram_@nick._Bug_started>@_</Telegram_@nick._Bug_started>
+        <Telegram_@nick._Bug_reproduced>@_</Telegram_@nick._Bug_reproduced>
+        <Telegram_@nick._Bug_did_not_reproduce>@_</Telegram_@nick._Bug_did_not_reproduce>
+        <Bug_did_not_reproduce_(environment)>Devices</Bug_did_not_reproduce_(environment)>
   </bug_report>
