@@ -73,10 +73,9 @@ Go to the "Repositories" tab, then ckick "New", in the "Repository name *" enter
 ```  
 
 32. Make a commit in one line.  
-`git commit -am "Add skils.xml`
+`git add . && git commit -am "Create 'preferences.xml' and 'sklls.xml'"` 
 
-33.  Send 2 files at once to an external repository.  
-`git commit -am "Add diff 'preferences.json' and 'sklls.xml'"`  
+33.  Send 2 files at once to an external repository.   
 `git push`  
 
 34. On the web interface, create a bug_report.xml file.  
