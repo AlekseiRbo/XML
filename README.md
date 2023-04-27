@@ -72,8 +72,8 @@ Go to the "Repositories" tab, then ckick "New", in the "Repository name *" enter
 	</user>
 ```  
 
-32. Make a commit in one line.  
-`git add . && git commit -am "Create 'preferences.xml' and 'sklls.xml'"` 
+32. Make a commit in one line.     
+`git acm "Create 'preferences.xml' and 'sklls.xml'"`   
 
 33.  Send 2 files at once to an external repository.   
 `git push`  
