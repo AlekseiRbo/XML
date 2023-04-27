@@ -75,7 +75,7 @@
 `git commit -am "Add skils.xml`
 
 33.  Send 2 files at once to an external repository.  
-`git commit -am "Add diff "preferences.json" and "sklls.xml"`  
+`git commit -am "Add diff 'preferences.json' and 'sklls.xml'"`  
 `git push`  
 
 34. On the web interface, create a bug_report.xml file.  
