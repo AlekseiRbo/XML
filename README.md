@@ -1,8 +1,9 @@
 # GIT Homework 1 "XML"
 
 21. Create an external repository named XML.  
-`` 
-
+```   
+Go to the "Repositories" tab, then ckick "New", in the "Repository name *" enter repository name and click "Create repository".   
+```
 22. Clone XML repository to local machine.  
 `git clone git@github.com:AlekseiRbo/XML.git` 
 
