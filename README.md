@@ -85,7 +85,7 @@ Click in the repository `Add file` then `Create new file` in field "Name your fi
 In field "Update README.md" enter ***changes*** then click `Commit changes`  
 
 36. On the web interface, modify the bug_report.xml file, add a bug report in XML format.  
-Go to file "bug_report.xml" click `Edit this file`, insert xml file:  
+Go to file "bug_report.xml", click `Edit this file`, insert xml file:  
 ```
 <?xml version="1.0" encoding="UTF-8"?>
   <bug_report>
